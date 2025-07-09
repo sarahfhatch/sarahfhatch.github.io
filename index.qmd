@@ -4,6 +4,10 @@ subtitle: "Harvard Graduate School of Education"
 image: /files/headshot.jpg
 about:
   template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/sarah-farnsworth-hatch/
   
 ---
 
@@ -12,9 +16,3 @@ Hello! I am a third-year PhD student at Harvard Graduate School of Education.
 I study what we can do (programs, interventions) to help kids thrive, especially before they start to experience social, emotional, academic, or behavioral problems. I am trained by applied developmental psychologists with a focus on prevention and implementation science. 
 
 Check out my projects tab to see what I'm currently working on, or my CV for my most recent academic publications.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

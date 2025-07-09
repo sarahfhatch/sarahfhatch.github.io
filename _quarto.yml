@@ -17,6 +17,8 @@ website:
         text: Projects
       - href: cv.qmd
         text: CV
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

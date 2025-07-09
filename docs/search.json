@@ -4,6 +4,20 @@
     "href": "index.html",
     "title": "Sarah Farnsworth Hatch",
     "section": "",
-    "text": "Hello! I am a third-year PhD student at Harvard Graduate School of Education.\nI study what we can do (programs, interventions) to help kids thrive, especially before they start to experience social, emotional, academic, or behavioral problems. I am trained by applied developmental psychologists with a focus on prevention and implementation science.\nCheck out my projects tab to see what I’m currently working on, or my CV for my most recent academic publications.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am a third-year PhD student at Harvard Graduate School of Education.\nI study what we can do (programs, interventions) to help kids thrive, especially before they start to experience social, emotional, academic, or behavioral problems. I am trained by applied developmental psychologists with a focus on prevention and implementation science.\nCheck out my projects tab to see what I’m currently working on, or my CV for my most recent academic publications."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "You can find my research and current projects here:"
   }
 ]

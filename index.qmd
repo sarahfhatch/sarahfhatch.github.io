@@ -3,12 +3,22 @@ title: "Sarah Farnsworth Hatch"
 subtitle: "Harvard Graduate School of Education"
 image: /files/headshot.jpg
 about:
+  id: hero-heading
+  image-shape: round
   template: trestles
   links: 
     - icon: linkedin
       text: LinkedIn
       url: https://www.linkedin.com/in/sarah-farnsworth-hatch/
-  
+    - icon: envelope
+      text: Email
+      url: mailto:shatch@g.harvard.edu
+    - text: "{{< ai orcid >}} ORCID"
+      url: https://orcid.org/0009-0005-9642-280X
+    - icon: file-pdf
+      text: "Download CV"
+      url: /files/Sarah_Hatch_CV_2025_PDF.pdf
+
 ---
 
 Hello! I am a third-year PhD student at Harvard Graduate School of Education. 

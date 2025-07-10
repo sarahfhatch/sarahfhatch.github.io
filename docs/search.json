@@ -19,5 +19,26 @@
     "title": "Research",
     "section": "",
     "text": "You can find my research and current projects here:"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "",
+    "section": "",
+    "text": "title: Contact Me subtitle: Email\nlinks: - icon: envelope text: Email url: mailto:shatch@g.harvard.edu"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "",
+    "section": "",
+    "text": "Checkout my CV below!"
+  },
+  {
+    "objectID": "CV.html#my-cv",
+    "href": "CV.html#my-cv",
+    "title": "",
+    "section": "",
+    "text": "Checkout my CV below!"
   }
 ]

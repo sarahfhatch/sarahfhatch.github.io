@@ -1,5 +1,0 @@
-## My CV
-
-Checkout my CV below!
-
-<embed src="docs/files/Sarah_Hatch_CV_2025_PDF.pdf" type="application/pdf" width="100%" height="600px" />

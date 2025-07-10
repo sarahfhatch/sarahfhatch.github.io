@@ -17,7 +17,7 @@ about:
       url: https://orcid.org/0009-0005-9642-280X
     - icon: file-pdf
       text: "Download CV"
-      url: /files/Sarah_Hatch_CV_2025_PDF.pdf
+      url: files/SFH_CV_PDF.pdf
 
 ---
 

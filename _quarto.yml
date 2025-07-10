@@ -15,8 +15,6 @@ website:
     right: 
       - href: projects.qmd
         text: Projects
-      - href: cv.qmd
-        text: CV
 
 format:
   html:

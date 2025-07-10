@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sarah Farnsworth Hatch",
     "section": "",
-    "text": "Hello! I am a third-year PhD student at Harvard Graduate School of Education.\nI study what we can do (programs, interventions) to help kids thrive, especially before they start to experience social, emotional, academic, or behavioral problems. I am trained by applied developmental psychologists with a focus on prevention and implementation science.\nCheck out my projects tab to see what I’m currently working on, or my CV for my most recent academic publications."
+    "text": "Hello! I am a third-year PhD student at Harvard Graduate School of Education.\nI study what we can do (programs, interventions) to help kids thrive, especially before they start to experience social, emotional, academic, or behavioral problems. I am trained by applied developmental psychologists with a focus on prevention and implementation science.\nCheck out my projects tab to see what I’m currently working on, or download my CV for my most recent academic publications."
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,33 @@
     "title": "",
     "section": "",
     "text": "Checkout my CV below!"
+  },
+  {
+    "objectID": "projects.html#with-stephanie-jones-easel-lab",
+    "href": "projects.html#with-stephanie-jones-easel-lab",
+    "title": "Ongoing Projects",
+    "section": "With Stephanie Jones (EASEL Lab)",
+    "text": "With Stephanie Jones (EASEL Lab)\n\nAnalyzing implementation data from an RCT on SEL in Nebraska.\nAnalyzing implementation data from the national rollout of a trauma-informed, locally adapted SEL curriculum in Ukraine."
+  },
+  {
+    "objectID": "projects.html#with-dana-mccoy-seed-lab",
+    "href": "projects.html#with-dana-mccoy-seed-lab",
+    "title": "Ongoing Projects",
+    "section": "With Dana McCoy (SEED Lab)",
+    "text": "With Dana McCoy (SEED Lab)\n\nAnalyzing implementation of an AI-based parenting app in Peru, which showed positive effects on children’s development.\nExamining mechanisms connecting the app to these positive outcomes.\nInvestigating associations between specific parenting behaviors and children’s behavioral outcomes in this context."
+  },
+  {
+    "objectID": "projects.html#parents-politicized-views-of-education-in-the-us",
+    "href": "projects.html#parents-politicized-views-of-education-in-the-us",
+    "title": "Ongoing Projects",
+    "section": "Parents’ Politicized Views of Education in the US",
+    "text": "Parents’ Politicized Views of Education in the US\n\nQualitative study examining conservative parents’ views of SEL (manuscript in preparation).\nConjoint survey on Democrat and Republican SEL preferences."
+  },
+  {
+    "objectID": "projects.html#school-censorship-studies",
+    "href": "projects.html#school-censorship-studies",
+    "title": "Ongoing Projects",
+    "section": "School Censorship Studies",
+    "text": "School Censorship Studies\n\nPredictors of school censorship behaviors: examines predictors using a mix of classic and novel political science and social psychology measures.\nNovel measurement of parents’ beliefs: introduces scales for “psychological fragility” and “conversational self-efficacy”; uses advanced psychometrics to test and relate these to censorship behaviors."
   }
 ]

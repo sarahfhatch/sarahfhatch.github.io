@@ -1,7 +1,32 @@
 ---
-title: "Current Projects"
+title: "Ongoing Projects"
 ---
 
+I am an active contributor in Stephanie Jones' EASEL lab and Dana McCoy's SEED lab. I also am primary investigator on several of my own projects.
 
-I am an active contributor in Stephanie Jones' EASEL lab and Dana McCoy's SEED lab. I also am primary investigator on three of my own projects. 
+# Collaborative Projects
 
+## With Stephanie Jones (EASEL Lab)
+
+- **Analyzing implementation data from an RCT on SEL in Nebraska.**
+- **Analyzing implementation data** from the national rollout of a trauma-informed, locally adapted SEL curriculum in Ukraine.
+
+## With Dana McCoy (SEED Lab)
+
+- **Analyzing implementation of an AI-based parenting app in Peru**, which showed positive effects on children's development.
+- **Examining mechanisms** connecting the app to these positive outcomes.
+- **Investigating associations** between specific parenting behaviors and children's behavioral outcomes in this context.
+
+# Independent Research
+
+## Parents' Politicized Views of Education in the US
+
+- **Qualitative study** examining conservative parents' views of SEL (manuscript in preparation).
+- **Conjoint survey** on Democrat and Republican SEL preferences.
+
+## School Censorship Studies
+
+- **Predictors of school censorship behaviors:** examines predictors using a mix of classic and novel political science and social psychology measures.
+- **Novel measurement of parents' beliefs:** introduces scales for "psychological fragility" and "conversational self-efficacy"; uses advanced psychometrics to test and relate these to censorship behaviors.
+
+---

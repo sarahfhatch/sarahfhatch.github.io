@@ -14,7 +14,7 @@ website:
         text: "Sarah F. Hatch | Home"
     right: 
       - href: projects.qmd
-        text: Ongoing Projects
+        text: "Current Projects"
 
 format:
   html:

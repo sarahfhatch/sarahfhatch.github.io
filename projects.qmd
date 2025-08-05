@@ -1,5 +1,6 @@
 ---
 title: "Ongoing Projects"
+toc: false
 ---
 
 I am an active contributor in Stephanie Jones' EASEL lab and Dana McCoy's SEED lab. I also am primary investigator on several of my own projects, with incredible mentors and peers providing critical feedback and partnership along the way. I am particularly drawn to "getting under the hood" of why people behave the ways they do when implementing or influencing children's education. 
@@ -14,7 +15,7 @@ I am an active contributor in Stephanie Jones' EASEL lab and Dana McCoy's SEED l
 ## School Censorship Studies
 
 - **Predicting school censorship behaviors** using a mix of classic and novel political science and social psychology measures.
-- **Novel scales looking at parents' beliefs:** surrounding "psychological fragility" and "conversational self-efficacy" using advanced psychometric approaches. 
+- **Novel scales looking at parents' beliefs** surrounding "psychological fragility" and "conversational self-efficacy" using advanced psychometric approaches. 
 
 # Collaborative Projects
 

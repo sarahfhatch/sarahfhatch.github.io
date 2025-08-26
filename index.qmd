@@ -10,15 +10,13 @@ about:
     - icon: linkedin
       text: LinkedIn
       url: https://www.linkedin.com/in/sarah-farnsworth-hatch/
-    - icon: envelope
-      text: Email
-      url: mailto:shatch@g.harvard.edu
     - text: "{{< ai orcid >}} ORCID"
       url: https://orcid.org/0009-0005-9642-280X
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: https://scholar.google.com/citations?user=jxlfVO8AAAAJ&hl=en&oi=ao
     - icon: file-pdf
-      text: "Download CV"
-      url: files/SFH_CV_PDF.pdf
-
+      text: "Curriculum Vitae"
+      url: files/SFH_CV_2025.pdf
 ---
 
 Hello! I am a third-year PhD student at Harvard Graduate School of Education. 

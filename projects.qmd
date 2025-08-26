@@ -6,13 +6,12 @@ toc: false
 I am a primary investigator on several projects, with incredible mentors and peers providing critical feedback and partnership along the way. I am also an active contributor in Stephanie Jones' [EASEL](https://easel.gse.harvard.edu/) lab and Dana McCoy's [SEED](https://seed.gse.harvard.edu/) lab. I am particularly drawn to "getting under the hood" of why people behave the ways they do when implementing or influencing children's education, particularly education which supports children's social and emotional learning (SEL). 
 
 # Independently-Led Research
-
-## Parents' Politicized Educational Views and Behaviors
+##Parents' Politicized Educational Views and Behaviors
 
 - **Conservative views of SEL:** I utilize relational interviews in my home community to examine variation behind parents' views of SEL.
-- **Predicting school censorship:** I use an experimental paradigm and original data to examine predictors of parents' school censorship behaviors, using a mix of classic and novel political science and social psychology measures.
+- **Predicting censorship:** I use an experimental paradigm and original data to examine predictors of parents' book censorship behaviors, using a mix of classic and novel political science and social psychology measures. *In partnership with Hannah Castner.*
 - **Parenting beliefs and censorship:** using Item Response Theory, I develop and test the validity evidence of two new measures of parenting beliefs which may predict parents' censorship behaviors. 
-- **SEL opposition experiment:** I use conjoint survey methods to explore differences in Republican and Democrat parents' SEL-related preferences. 
+- **Experimenting with SEL opposition:** I use conjoint survey methods to explore differences in Republican and Democrat parents' SEL-related preferences. 
 
 # Collaborative Research
 

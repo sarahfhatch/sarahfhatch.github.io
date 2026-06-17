@@ -3,27 +3,23 @@ title: "Ongoing Projects"
 toc: false
 ---
 
-I am a primary investigator on several projects, with incredible mentors and peers providing critical feedback and partnership along the way. I am also an active contributor in Stephanie Jones' [EASEL](https://easel.gse.harvard.edu/) lab and Dana McCoy's [SEED](https://seed.gse.harvard.edu/) lab. I am particularly drawn to "getting under the hood" of why people behave the ways they do when implementing or influencing children's education, particularly education which supports children's social and emotional learning (SEL). 
+I am a primary investigator on several projects examining what caregivers believe about social and emotional learning (SEL) and other politicized topics, and how those beliefs shape subsequent educational preferences. My work is funded by the Interdisciplinary Mind Grant from the Mind, Brain, Behavior Initiative at Harvard. 
+I am also an active contributor in Stephanie Jones' [EASEL](https://easel.gse.harvard.edu/) lab and Dana McCoy's [SEED](https://seed.gse.harvard.edu/) lab. 
+
 
 # Independently-Led Research
-##Parents' Politicized Educational Views and Behaviors
 
-- **Conservative views of SEL:** I utilize relational interviews in my home community to examine variation behind parents' views of SEL.
-- **Predicting censorship:** I use an experimental paradigm and original data to examine predictors of parents' book censorship behaviors, using a mix of classic and novel political science and social psychology measures. *In partnership with Hannah Castner.*
-- **Parenting beliefs and censorship:** using Item Response Theory, I develop and test the validity evidence of two new measures of parenting beliefs which may predict parents' censorship behaviors. 
-- **Experimenting with SEL opposition:** I use conjoint survey methods to explore differences in Republican and Democrat parents' SEL-related preferences. 
+- **A Closer Look at Political Conservative's Views of SEL:** I conducted relational interviews in the Salt Lake and Utah Valleys to examine politically conservative parents' views of SEL (manuscript under review).
+- **Features of SEL that Drive Opposition:** I used conjoint survey methods to explore differences in Republican and Democrat parents' (N=705) SEL-related preferences (contact for preliminary findings; analysis ongoing). 
+- **Political and Psychological Predictors of Parents' School Censorship:** I used an experimental paradigm to examine predictors of parents' book censorship behaviors, using a mix of political and social psychology measures. *In partnership with Hannah Castner.* (manuscript under review).
+- **Parenting Self-Efficacy, Psychological Safeguarding, and Censorship:** Drawing on Developmental Niche Theory and Item Response Theory, I developed and tested the validity evidence of two new measures of parenting beliefs which may predict parents' censorship behaviors (contact for preliminary findings; analysis ongoing). 
+
 
 # Collaborative Research
 
-## With Stephanie Jones
+- **Describing and Predicting Implementation Fidelity** I used Growth Curve Models to examine patterns of SEL implementation in after-school settings in Nebraska (manuscript in preparation, advised by Stephanie Jones).
+- **Impacts of After-school SEL in Nebraska:** I provided logistical support and supported data management and collection for a large, state-wide RCT of SEL Kernels (manuscript in preparation, led by Stephanie Jones).
+- **Impacts of Mobile Data Credits on Caregivers' Use of a Digital Parenting Intervention:** We find that small mobile data credits support extended use of an efficacious parenting intervention in high altitude Andean Peru (manuscript in preparation, advised by Lena Jaggi).
 
-- **Analyzing implementation data and impacts** from an RCT on SEL in after-school settings in Nebraska.
-- **Analyzing implementation data** from the national rollout of a trauma-informed, locally adapted SEL curriculum in Ukraine.
-
-## With Dana McCoy
-
-- **Analyzing implementation of an AI-based parenting app in Peru**, which showed positive effects on children's development.
-- **Examining mechanisms** connecting the app to these positive outcomes.
-- **Investigating associations** between specific parenting behaviors and children's behavioral outcomes in this context.
 
 ---

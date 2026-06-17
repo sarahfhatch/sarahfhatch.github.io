@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,10 +30,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f1af3d42ebcf02efe0e5ee79612349bc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -120,10 +120,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Hello! I am a third-year PhD student at Harvard Graduate School of Education.</p>
-<p>I study what we can do (programs, interventions) to help kids thrive, especially before they start to experience social, emotional, academic, or behavioral problems. I am trained by applied developmental psychologists with a focus on prevention and implementation science.</p>
+<p>Hello! I’m Sarah, and I am a developmental psychologist and fourth-year PhD student at Harvard Graduate School of Education.</p>
+<p>I draw on implementation and psychology frameworks to explore how to better support children’s positive social and emotional development. My research consists of a) evaluating caregiving practices and interventions and b) examining the beliefs and behaviors of the adults who are expected to be on board with such practices. Although I do conduct work internationally, I’m currently focusing on the developmental views of parents across the U.S. political spectrum.</p>
 <p>Before my doctoral program, I worked as an education specialist at the University of Pennsylvania’s Implementation Science Center. I received a MSEd from the University of Pennsylvania’s Graduate School of Education and a BS in Sociology from Brigham Young University.</p>
-<p>Check out my projects tab to see what I’m currently working on, or download my CV for my most recent academic publications.</p>
+<p>Check out my projects tab to see what I’m currently working on or visit my Google Scholar for my most recent academic publications.</p>
 
 
 </main></div>
@@ -204,8 +204,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -316,7 +314,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
